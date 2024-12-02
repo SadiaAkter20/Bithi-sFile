@@ -1,0 +1,83 @@
+[
+  {
+    "bookId": 1,
+    "bookName": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "image": "https://i.ibb.co/Qr7YYRV/kindpng-2592315-1.png",
+    "review": "A classic portrayal of the American Dream, filled with vivid characters and elegant prose.",
+    "totalPages": 218,
+    "rating": 4.5,
+    "category": "Fiction",
+    "tags": ["Classic", "Romance", "Tragedy"],
+    "publisher": "Scribner",
+    "yearOfPublishing": 1925
+  },
+  {
+    "bookId": 2,
+    "bookName": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "image": "https://i.ibb.co/NxV2fRc/kindpng-5624060-1.png",
+    "review": "A powerful story of racial injustice and moral growth, told through the eyes of a young girl.",
+    "totalPages": 324,
+    "rating": 4.7,
+    "category": "Fiction",
+    "tags": ["Classic", "Social Justice"],
+    "publisher": "J. B. Lippincott & Co.",
+    "yearOfPublishing": 1960
+  },
+  {
+    "bookId": 3,
+    "bookName": "1984",
+    "author": "George Orwell",
+    "image": "https://i.ibb.co/GsBpHrK/kindpng-1064993-1.png",
+    "review": "A chilling dystopian novel depicting a totalitarian regime and the struggle for individual freedom.",
+    "totalPages": 328,
+    "rating": 4.6,
+    "category": "Fiction",
+    "tags": ["Dystopian", "Political", "Social Commentary"],
+    "publisher": "Secker & Warburg",
+    "yearOfPublishing": 1949
+  },
+  {
+    "bookId": 4,
+    "bookName": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "image": "https://i.ibb.co/y6VRpJV/kindpng-81724-1.png",
+    "review": "A coming-of-age novel following a teenager's journey through adolescence and alienation.",
+    "totalPages": 277,
+    "rating": 4.4,
+    "category": "Fiction",
+    "tags": ["Coming-of-Age", "Alienation"],
+    "publisher": "Little, Brown and Company",
+    "yearOfPublishing": 1951
+  },
+  {
+    "bookId": 5,
+    "bookName": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "image": "https://i.ibb.co/PrqWYQb/kindpng-4022054-1.png",
+    "review": "A captivating tale of magic, friendship, and adventure that enchants readers of all ages.",
+    "totalPages": 320,
+    "rating": 4.8,
+    "category": "Fantasy",
+    "tags": ["Magic", "Adventure", "Friendship"],
+    "publisher": "Bloomsbury",
+    "yearOfPublishing": 1997
+  },
+  {
+    "bookId": 6,
+    "bookName": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "image": "https://i.ibb.co/jTMg0yt/kindpng-7318921-1.png",
+    "review": "A hilarious and absurd journey through space filled with wit, satire, and memorable characters.",
+    "totalPages": 224,
+    "rating": 4.5,
+    "category": "Science Fiction",
+    "tags": ["Humor", "Adventure", "Satire"],
+    "publisher": "Pan Books",
+    "yearOfPublishing": 1979
+  }
+]
+
+
+
